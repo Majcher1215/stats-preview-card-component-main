@@ -110,6 +110,7 @@ h1 span {
         flex-direction: row;
         width: 80%;
         max-width: 2000px;
+        height: 65%;
     }
 
     #preview-photo {
